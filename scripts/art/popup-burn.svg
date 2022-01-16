@@ -1,0 +1,44 @@
+<svg width="317.67" height="161.3" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   
+   ## VARIABLES
+   <rect fill="#cccccb" height="136.91" width="317.45" y="0.01"/> // background-color
+   <rect fill="#2b3087" height="14" width="313.32" x="2.11" y="2.39"/> // copy bar
+
+   ## CONSTANT ELEMENTS
+   // borders
+   <line stroke="#fff" stroke-width="0.75px" x1="0.97" y1="0.91" x2="1.01" y2="135.9"/>
+   <line stroke="#999" stroke-width="0.75px" x1="316.54" y1="137.5" x2="316.49" y2="0.91"/>
+   <line stroke="#999" x1="0.55" x2="316.81" y1="136.35" y2="137.21"/> 
+   <line fill="#fff" stroke="#fff" x1="316.1" x2="0.8" y1="1.33" y2="1.33"/>
+   // Close button
+   <rect fill="#d1d3d4" stroke="#d1d3d4" height="8.95" width="10.23" x="301.78" y="4.59"/> // This has var
+   <line stroke="#231f20" x1="303.91" x2="309.87" y1="6.06" y2="12.06"/>
+   <line stroke="#231f20" x1="309.87" x2="303.91" y1="6.06" y2="12.06"/>
+   <line stroke="#fff" x1="313.9" y1="3.84" x2="301.01" y2="3.84"/>
+   <line stroke="#fff" x1="301.01" y1="15.24" x2="301.01" y2="3.46"/>
+   <line stroke="#231f20" x1="313.52" y1="15.24" x2="313.53" y2="3.46"/>
+   <line stroke="#231f20" x1="313.9" y1="14.99" x2="300.57" y2="14.99"/>
+   // Done button borders
+   <line stroke="#999" stroke-width="0.75px" x1="256.52" y1="125.2" x2="256.52" y2="106.87"/>
+   <line stroke="#000" x1="305.14" x2="305.11" y1="126.01" y2="106.75"/>
+   <line stroke="#000" x1="305.51" x2="256.17" y1="125.63" y2="125.63"/>
+   <line stroke="#fff" x1="304.71" x2="256.18" y1="107.14" y2="107.14"/>
+
+
+  ## BODYF AND BODYB INDIVIDUAL
+  // cancel button
+  <circle cx="160.625" cy="48.875" fill="#7b7b7b" r="10" stroke="#7b7b7b" stroke-width="5"/>
+  <circle cx="158" cy="47" fill="#ff0000" r="13" stroke="#7b0000"/>
+  <path d="m149.89782,43.03296l3.93979,-3.75795l4.18517,3.99198l4.18517,-3.99198l3.93984,3.75795l-4.18519,3.99201l4.18519,3.99201l-3.93984,3.75799l-4.18517,-3.99201l-4.18517,3.99201l-3.93979,-3.75799l4.18514,-3.99201l-4.18514,-3.99201z" fill="#ffffff" stroke="#ffffff"/>
+  
+  // Texts
+   <text  fill="#231f20" font-size="8.57px" font-family="MicrosoftSansSerif, Microsoft Sans Serif" transform="translate(22.26 72.4)">
+    <tspan x="10" y="10.28">BY: 0x000000000000000000000000000000000000000</tspan>
+    <tspan x="10" y="20.28">MSG: Defi Rocks!!!</tspan>
+    </text>
+
+  // window bar text
+  <text fill="#231f20" font-size="10px" font-family="MicrosoftSansSerif, Microsoft Sans Serif" transform="translate(270.58 119.42) scale(0.9 1)">Done</text>
+  <text stroke="#d1d3d4" fill="#d1d3d4" stroke-width="0.4px" font-size="8.97px" font-family="MicrosoftSansSerif, Microsoft Sans Serif" transform="translate(4.6 12.09) scale(1.14 1)">Copying...</text>
+
+</svg>
